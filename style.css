@@ -1,0 +1,43 @@
+body {
+    background: rgb(202,25,25);
+background: linear-gradient(90deg, rgba(202,25,25,1) 0%, rgba(26,182,40,1) 50%, rgba(255,255,255,1) 100%);
+}
+
+.shark-2_list:hover .overlay {
+    opacity: 1;
+  }
+
+  .pages_list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none ;
+}
+
+.pages-link {
+    font-family: 'Kaushan Script';
+    text-decoration: none ;
+    text-shadow: 3px 1px 3px black;
+    font-size: 36px;
+  }
+
+  .Ron {
+    text-align: center;
+    color: black;
+    border: 5px solid rgba(203, 23, 23, 0.861);
+    width: 350px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+  .Ron2 {
+    height: 545px;
+    width: 965px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+.main-text {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-indent: 25px;
+  }
